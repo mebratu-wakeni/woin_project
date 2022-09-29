@@ -17,7 +17,7 @@ xR = linspace(1.1, xN, 50);
 x = linspace(x0, xN, 100);
 
 y = (x - 3)./(x - 1);
-
+% some random comment just to see how git branches work
 
 figure(1), clf, hold on
 
